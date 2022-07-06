@@ -1,0 +1,257 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+
+    font-weight: 700;
+    font-size: 40px;
+}
+
+h2{
+
+    font-style: italic;
+    color: tomato;
+}
+.top-banner{
+
+    background-image: url("../images/donation10.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-container{
+
+    text-align: center;
+    padding: 15%;
+    width: 40%;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.top-heading{
+     
+    font-size: 40px;
+    color: white;
+}
+
+.paragraph{
+
+    color: white;
+    margin-bottom: 40px;
+}
+
+.link-button{
+
+    text-decoration: none;
+    background-color: red;
+    color:white;
+    padding: 10px 40px;
+    border-radius: 6px;
+   
+}
+
+.second-banner{
+
+    margin-top: 110px;
+}
+.second-container{
+
+    text-align: center;
+    width:45%;
+    margin: 0 auto;
+}
+
+.second-praragraph{
+
+    color:rgb(58, 94, 145);
+    margin-bottom: 20px;
+}
+.boxes{
+
+    display: flex;
+    width: 55%;
+    height: 14%;
+ 
+   
+}
+
+.first-box{
+
+width:30%;
+padding: 11%;
+border-radius: 2px;
+margin-bottom: 60px;
+margin-top: 20px;
+margin-right: 20px;
+font-weight: 900;
+color: rgb(112, 112, 112);
+font-size: 25px;
+background-color: rgb(250, 250, 250);
+}
+
+.input-field{
+
+    margin-bottom:35px;
+    border-bottom: 1px solid gray;
+}
+
+#box{
+    border: 2px solid red;
+    background-color: rgb(255, 238, 238);
+    color: red;
+    border-radius: 5px;
+    text-align: center;
+    padding-left: 9%;
+    padding-top: 12%;
+    padding-bottom: 5%;
+
+}
+
+#fname{
+
+    margin-bottom: 7px;
+    border: none;
+    outline: none;
+    font-size: 17px;
+    text-align: center;
+   
+}
+.third-banner{
+
+    margin-top: 90px;
+}
+
+.donate-plan{
+
+    text-align: center;
+    width:45%;
+    margin: 0 auto;
+}
+
+.third-boxes{
+
+    display: flex;
+    justify-content: center;
+   
+   
+  
+}
+.food-boxes{
+
+    width:20%;
+    height: 30%;
+    padding: 30px 20px 10px 20px;
+    margin: 10px 10px 0 10px;
+    border-radius: 2px;
+    background-color: rgb(237, 245, 246);;
+  
+}
+#boxes-first{
+
+    padding-bottom: 49px;
+    background-color: blanchedalmond;
+}
+#boxes-second{
+
+    padding-bottom: 49px;
+    background-color: aquamarine;
+}
+#boxes-third{
+
+    padding-bottom: 25px;
+    background-color: coral;
+}
+
+.food-img{
+
+    width:20%;
+}
+.fourth-banner{
+
+    margin-top: 120px;
+}
+.fourth-banner{
+
+    background-color: blanchedalmond;
+   
+}
+.fourth-container{
+
+    display: flex;
+    justify-content: center;
+}
+.fourth-first{
+   
+    text-align: center;
+    width:45%;
+    margin: 0 auto;
+}
+.section-two-row-1{
+    width:20%;
+    height: 30%;
+    padding: 30px 20px 10px 20px;
+    margin: 40px 15px 15px 15px;
+    border-radius: 2px;
+    background-color: rgb(237, 245, 246);;
+    
+}
+
+ .last-banner{
+
+    margin-top: 120px;
+    margin-bottom: 120px;
+ }
+
+ .last-container{
+
+    text-align: center;
+    width: 45%;
+    margin:0 auto;
+ }
+
+ .part-two{
+
+    margin-top:50px;
+    padding: 10%;
+    background-color:rgb(255, 244, 214)
+ }
+ #email{
+
+    padding: 2%;
+    width: 40%;
+    background-color:white;
+    border: 0px;
+    
+ }
+ #subs{
+
+    padding: 2%;
+    width: 20%;
+    background-color:red;
+    color: white;
+    border: 0px;
+    margin: 0px;
+    
+ }
+ footer{
+
+    text-align: center;
+    width:100%;
+    height: 160px;
+    margin: 0 auto;
+    background-color: black;
+   
+ }
+ .footer-container{
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+ }
+ .last-paragraph{
+
+    font-style: italic;
+    color: white;
+ }
